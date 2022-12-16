@@ -2,7 +2,8 @@
 Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
-Problem Statement: Write a C program to find factors of a number and check whether number is perfect or not.
+Problem Statement: 
+3. Write a C program to find factors of a number and check whether number is perfect or not.
 */
 #include<stdio.h>
 void main()

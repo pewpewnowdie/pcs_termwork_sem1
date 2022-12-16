@@ -2,7 +2,8 @@
 Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
-Problem Statement: Input n elements in an array and organize them in descending order using a sorting technique.
+Problem Statement: 
+12. Input n elements in an array and organize them in descending order using a sorting technique.
 */
 #include<stdio.h>
 void main()

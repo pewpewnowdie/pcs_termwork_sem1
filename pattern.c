@@ -2,7 +2,8 @@
 Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
-Problem Statement: Write a program to print following pattern:
+Problem Statement: 
+7. Write a program to print following pattern:
                    *        *
                    **      **
                    ***    ***

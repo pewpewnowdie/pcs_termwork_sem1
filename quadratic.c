@@ -2,7 +2,8 @@
 Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
-Problem Statement: Write a Program to find roots of a quadratic equation, equation is of form (ax^2+bx+c=0).
+Problem Statement: 
+1. Write a Program to find roots of a quadratic equation, equation is of form (ax^2+bx+c=0).
 */
 #include<stdio.h>
 #include<math.h>

@@ -2,7 +2,8 @@
 Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
-Problem Statement: Write a program to find the sum of the following series:
+Problem Statement: 
+9. Write a program to find the sum of the following series:
                    1+1/3!+1/5!+1/7!+......1/n!
 */
 #include<stdio.h>

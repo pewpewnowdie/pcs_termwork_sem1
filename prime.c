@@ -2,7 +2,8 @@
 Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
-Problem Statement: Write a program to print all prime numbers between the range m and n.
+Problem Statement: 
+6. Write a program to print all prime numbers between the range m and n.
 */
 #include<stdio.h>
 void main()

@@ -3,7 +3,8 @@ Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
 
-Problem Statement:Write a menu driven program using functions that can perform the following tasks on pressing given keys:
+Problem Statement:
+17. Write a menu driven program using functions that can perform the following tasks on pressing given keys:
 1.	Check if a number is odd or even.
 2.	Print reverse of a number.
 3.	Print sum of series 1+3+5+7.... upto n.

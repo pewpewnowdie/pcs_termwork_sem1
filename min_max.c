@@ -2,7 +2,8 @@
 Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
-Problem Statement: Write a C program to find maximum and minimum among n integer number.
+Problem Statement: 
+4. Write a C program to find maximum and minimum among n integer number.
 */
 #include<stdio.h>
 void main()

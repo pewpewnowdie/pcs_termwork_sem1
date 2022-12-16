@@ -2,7 +2,8 @@
 Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
-Problem Statement: Write a program to print the following series:
+Problem Statement: 
+5. Write a program to print the following series:
                    0 3 8 15 24 35 48 .... upto n term.
 */
 #include<stdio.h>

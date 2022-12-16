@@ -3,7 +3,8 @@ Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
 
-Problem Statement: Write a user defined function to print fibonacci series. 
+Problem Statement: 
+16. Write a user defined function to print fibonacci series. 
 */
 #include<stdio.h>
 void fib(int);

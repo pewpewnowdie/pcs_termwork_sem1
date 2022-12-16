@@ -3,7 +3,8 @@ Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
 
-Problem Statement:Write a program to input n integer numbers from user and print reverse of each number 
+Problem Statement:
+8. Write a program to input n integer numbers from user and print reverse of each number 
 */
 #include<stdio.h>
 int rev(int);

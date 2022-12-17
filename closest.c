@@ -11,14 +11,15 @@ void find(int[],int,int);
 void main()
 {
     int i,a[10],x,n;
-    printf("enter array length");
+    printf("enter array length\n");
     scanf("%d",&n);
     printf("enter elements in array\n");
     for (i = 0; i < n; i++)
     {
         scanf("%d",&a[i]);
     }
-    printf("enter the element");
+    printf("enter the test element\n");
+    scanf("%d",&x);
     find(a,n,x);
 }
 void find(int a[],int n,int x)
@@ -41,7 +42,7 @@ void find(int a[],int n,int x)
         if(a[i]==x)
             {
                 s=a[i-1];
-                l=a[i-1];
+                l=a[i+1];
                 break;
              }
     }

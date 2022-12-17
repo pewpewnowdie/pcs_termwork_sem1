@@ -3,8 +3,8 @@ Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
 Problem Statement: 
-18. Write a user defined code to input 10 elements in an array (all distinct). Pass this array to the function 
-    and print the sum of first three smallest and first three largest elements present in the array.
+10. Input n numbers in an array and find the nearest lesser and nearest greater element 
+than a given element.
 */
 #include<stdio.h>
 void find(int[]);

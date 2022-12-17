@@ -7,7 +7,7 @@ Problem Statement:
 than a given element.
 */
 #include<stdio.h>
-void find(int[]);
+void find(int[],int,int);
 void main()
 {
     int i,a[10],x,n;

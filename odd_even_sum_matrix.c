@@ -10,9 +10,9 @@ row and all the odd elements present in each column.
 void main()
 {
     int a[10][10],m,n,row=0,col=0,i,j;
-    printf("enter array number of rows\n");
+    printf("enter number of rows\n");
     scanf("%d",&m);
-    printf("enter array number of columns\n");
+    printf("enter number of columns\n");
     scanf("%d",&n);
     printf("enter elements in array\n");
     for (i = 0; i < m; i++)

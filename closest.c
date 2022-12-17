@@ -19,7 +19,7 @@ void main()
         scanf("%d",&a[i]);
     }
     printf("enter the element");
-    sort(a,n,x);
+    find(a,n,x);
 }
 void find(int a[],int n,int x)
 {

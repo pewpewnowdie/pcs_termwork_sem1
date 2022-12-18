@@ -1,4 +1,4 @@
-#include<stdio.h>/*
+/*
 Name:		Kshitij Tyagi
 Roll No.:	2021287
 Sec: 		F
@@ -12,6 +12,7 @@ Problem Statement:
     6. Replace all spaces with digit 5.
     7. Replace all digits with @
 */
+#include<stdio.h>
 void main()
 {
     int i,n;

@@ -20,9 +20,9 @@ void main()
             s+=i;
         }
     }
-    if(n*2)
+    if(n*2==s)
         printf("perfect number");
     else
-        printf("not a perfect numebr");
+        printf("not a perfect number");
 
 }
